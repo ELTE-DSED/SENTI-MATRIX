@@ -140,15 +140,23 @@ SENTI-MATRIX/
 │
 ├── Code/
 │   ├── Aspect Based Sentiment (3 classes) Laptop + Restaurant ABSA Dataset.ipynb
+│   ├── Aspect Based Sentiment (3 classes) Laptop + Restaurant ABSA Dataset - AdaLoRA.ipynb
 │   ├── Aspect Based Sentiment (3 classes) Laptop ABSA Dataset.ipynb
 │   ├── Aspect Based Sentiment (3 classes) Restaurant ABSA Dataset.ipynb
 │   ├── Emotion Detection Emotion Dataset.ipynb
+│   ├── Emotion Detection Emotion Dataset - AdaLoRA.ipynb
 │   ├── Fine-Grained Sentiment Analysis (3 classes) E-Commerce Reviews.ipynb
+│   ├── Fine-Grained Sentiment Analysis (3 classes) E-Commerce Reviews - AdaLoRA.ipynb
 │   ├── Fine-Grained Sentiment Analysis (5 classes) E-Commerce Reviews.ipynb
+│   ├── Fine-Grained Sentiment Analysis (5 classes) E-Commerce Reviews - AdaLoRA.ipynb
 │   ├── Fine-Grained Sentiment Analysis (5 classes) Yelp Reviews.ipynb
+│   ├── Fine-Grained Sentiment Analysis (5 classes) Yelp Reviews - AdaLoRA.ipynb
 │   ├── Fine-Grained Sentiment Analysis (3 classes) Yelp Reviews.ipynb
+│   ├── Fine-Grained Sentiment Analysis (3 classes) Yelp Reviews - AdaLoRA.ipynb
 │   ├── Intent Based Sentiment (2 classes) IMDB Dataset.ipynb
+│   ├── Intent Based Sentiment (2 classes) IMDB Dataset - AdaLoRA.ipynb
 │   └── Intent Based Sentiment (2 classes) SST-2 Dataset - Models.ipynb
+│   └── Intent Based Sentiment (2 classes) SST-2 Dataset - Models - AdaLoRA.ipynb
 │
 ├── Dataset/
 │   ├── E-Commerce Reviews (5 Classes).csv
