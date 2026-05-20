@@ -326,9 +326,13 @@ Model evaluation is categorized into two dimensions: performance metrics to meas
 
 ---
 
-## Citation
+## Reference
 
-If you use this work or the SENTI-MATRIX framework in your research, please cite as follows:
+This repository accompanies the following article, currently under review:
+
+**Md. Easin Arafat, Muhammad Usman Akmal, Ali S. Abosinnee, and Tamás Orosz.**
+"SENTI-MATRIX: Multidimensional Sentiment Analysis with Generative Transformer Models."
+*Machine Learning*, Springer, 2026. *(Under review)*
 
 ```bibtex
 @article{arafat2026sentimatrix,
@@ -346,16 +350,6 @@ If you use this work or the SENTI-MATRIX framework in your research, please cite
 
 ---
 
-## Acknowledgements
-
-Sincere gratitude is extended to supervisor **Md. Easin Arafat**, **Ali S. Abosinnee**, and **Professor Tamás Orosz** for their invaluable guidance, constant encouragement, and technical expertise throughout this research.
-
-Deepest thanks go to the **Parents** of the authors for their endless support throughout this journey.
-
-Gratitude is also extended to the **Department of Data Science at Eötvös Loránd University (ELTE)** for providing the academic environment and technical resources necessary to complete this work.
-
----
-
 ## Contact
 
 **Md. Easin Arafat**
@@ -366,6 +360,12 @@ arafatmdeasin@inf.elte.hu
 **Muhammad Usman Akmal**
 Researcher, Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary
 usman.hu1471@gmail.com
+
+**Ali S. Abosinnee**
+Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary
+
+**Tamás Orosz**
+Professor, Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary
 
 ---
 
