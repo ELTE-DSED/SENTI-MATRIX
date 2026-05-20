@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.so
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+saved_models/
+runs/
+
+# HuggingFace cache
+.cache/
+transformers_cache/
+
+# Data and large files
+*.csv.gz
+*.parquet
+*.h5
+*.hdf5
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+wandb/
+lightning_logs/
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
