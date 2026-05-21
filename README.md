@@ -1,4 +1,4 @@
-# SENTI-MATRIX: Multidimensional Sentiment Analysis with Generative Transformer Models
+# SENTI-MATRIX: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis
 
 *Python · PyTorch · Transformers · HuggingFace · LoRA · AdaLoRA*
 
