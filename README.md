@@ -8,7 +8,7 @@
 
 ## Description
 
-SENTI-MATRIX is a systematic evaluation and fine-tuning framework for transformer-based models across four sentiment analysis tasks: intent-based (binary and multi-class), aspect-based, fine-grained, and emotion detection. The framework benchmarks pretrained models against three adaptation strategies — full fine-tuning, LoRA adapters, and AdaLoRA adapters — enabling direct comparison of predictive performance against computational cost.
+SENTI-MATRIX is a parameter-efficient fine-tuning framework for transformer-based models across four sentiment analysis tasks: intent-based (binary and multi-class), aspect-based, fine-grained, and emotion detection. The framework benchmarks pretrained models against three adaptation strategies — full fine-tuning, LoRA adapters, and AdaLoRA adapters — enabling direct comparison of predictive performance against computational cost.
 
 ---
 
@@ -331,12 +331,12 @@ Model evaluation is categorized into two dimensions: performance metrics to meas
 This repository accompanies the following article, currently under review:
 
 **Md. Easin Arafat, Muhammad Usman Akmal, Ali S. Abosinnee, and Tamás Orosz.**
-"SENTI-MATRIX: Multidimensional Sentiment Analysis with Generative Transformer Models."
+"SENTI-MATRIX: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis."
 *Machine Learning*, Springer, 2026. *(Under review)*
 
 ```bibtex
 @article{arafat2026sentimatrix,
-  title     = {SENTI-MATRIX: Multidimensional Sentiment Analysis with Generative Transformer Models},
+  title     = {SENTI-MATRIX: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis},
   author    = {Arafat, Md. Easin and
                Akmal, Muhammad Usman and
                Abosinnee, Ali S. and
