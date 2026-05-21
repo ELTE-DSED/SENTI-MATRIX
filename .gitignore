@@ -15,50 +15,66 @@ venv/
 env/
 .env/
 .venv/
+.conda/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
+*.nbconvert/
 
 # Model checkpoints and weights
 *.pt
 *.pth
 *.bin
+*.ckpt
 *.safetensors
 checkpoints/
 saved_models/
 runs/
+outputs/
+results/
 
 # HuggingFace cache
 .cache/
 transformers_cache/
+huggingface/
+hub/
 
 # Data and large files
+*.csv
 *.csv.gz
 *.parquet
 *.h5
 *.hdf5
+*.pkl
+*.pickle
+data/raw/
+data/processed/
 
 # OS
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# IDE
+# IDE / AI tools
 .vscode/
 .idea/
 *.sublime-project
 *.sublime-workspace
+.claude/
 
-# Logs
+# Logs and experiment tracking
 *.log
 logs/
 wandb/
 lightning_logs/
+mlruns/
+.neptune/
 
 # Environment variables
 .env
 .env.local
+*.env
 
 # Temporary files
 *.tmp
