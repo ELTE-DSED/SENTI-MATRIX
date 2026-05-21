@@ -12,7 +12,7 @@
 
 ## Description
 
-SENTI-MATRIX is a parameter-efficient fine-tuning framework for transformer-based models across four sentiment analysis tasks: intent-based (binary and multi-class), aspect-based, fine-grained, and emotion detection. The framework benchmarks pretrained models against three adaptation strategies — full fine-tuning, LoRA adapters, and AdaLoRA adapters — enabling direct comparison of predictive performance against computational cost.
+SentiMatrix is a parameter-efficient fine-tuning framework for transformer-based models across four sentiment analysis tasks: intent-based (binary and multi-class), aspect-based, fine-grained, and emotion detection. The framework benchmarks pretrained models against three adaptation strategies — full fine-tuning, LoRA adapters, and AdaLoRA adapters — enabling direct comparison of predictive performance against computational cost.
 
 ---
 
@@ -371,14 +371,14 @@ Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary
 arafatmdeasin@inf.elte.hu
 
 **Muhammad Usman Akmal**
-Researcher, Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary
+Researcher, Faculty of Informatics, Department of Data Science and Engineering, Eötvös Loránd University (ELTE), Budapest, Hungary
 usman.hu1471@gmail.com
 
 **Ali S. Abosinnee**
-Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary
+PhD Candidate, Faculty of Informatics, Department of Data Science and Engineering, Eötvös Loránd University (ELTE), Budapest, Hungary
 
 **Tamás Orosz**
-Professor, Faculty of Informatics, Eötvös Loránd University (ELTE), Budapest, Hungary
+Associate Professor, Faculty of Informatics, Department of Data Science and Engineering, Eötvös Loránd University (ELTE), Budapest, Hungary
 
 ---
 
