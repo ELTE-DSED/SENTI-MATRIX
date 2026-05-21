@@ -1,4 +1,4 @@
-# SENTI-MATRIX: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis
+# SentiMatrix: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis
 
 *Python · PyTorch · Transformers · HuggingFace · LoRA · AdaLoRA*
 
@@ -30,7 +30,7 @@ SENTI-MATRIX is a parameter-efficient fine-tuning framework for transformer-base
 
 ## Overview
 
-SENTI-MATRIX addresses challenges in multidimensional sentiment analysis by combining four model adaptation strategies:
+SentiMatrix addresses challenges in multidimensional sentiment analysis by combining four model adaptation strategies:
 
 - **Pretrained Model Evaluation** — Benchmarking models pretrained on task-specific datasets in a zero-shot setting.
 - **Base Model Fine-Tuning** — Full fine-tuning of transformer architectures on target datasets.
@@ -331,12 +331,12 @@ Model evaluation is categorized into two dimensions: performance metrics to meas
 This repository accompanies the following article, currently under review:
 
 **Md. Easin Arafat, Muhammad Usman Akmal, Ali S. Abosinnee, and Tamás Orosz.**
-"SENTI-MATRIX: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis."
+"SentiMatrix: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis."
 *Machine Learning*, Springer, 2026. *(Under review)*
 
 ```bibtex
 @article{arafat2026sentimatrix,
-  title     = {SENTI-MATRIX: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis},
+  title     = {SentiMatrix: Parameter-Efficient Fine-Tuning of Encoder-Based Transformers for Multidimensional Sentiment Analysis},
   author    = {Arafat, Md. Easin and
                Akmal, Muhammad Usman and
                Abosinnee, Ali S. and
